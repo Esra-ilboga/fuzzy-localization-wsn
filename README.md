@@ -1,6 +1,6 @@
 # 📡 Fuzzy Localization in Wireless Sensor Networks (WSNs)
 
-Bu proje, **kablosuz sensör ağlarındaki (WSN)** düğüm lokalizasyon problemini çözmek için **Mamdani tipi bulanık mantık çıkarım sistemi (FIS)** kullanan bir Python uygulamasıdır. Bursa Teknik Üniversitesi'nde BLM0468 "Esnek Hesaplamaya Giriş" dersi kapsamında geliştirilmiştir.
+Bu proje, **kablosuz sensör ağlarındaki (WSN)** düğüm lokalizasyon problemini çözmek için **Mamdani tipi bulanık mantık çıkarım sistemi (FIS)** kullanan bir Python uygulamasıdır. 
 
 ---
 
