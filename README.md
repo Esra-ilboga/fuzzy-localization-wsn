@@ -50,12 +50,3 @@ Toplamda **8 farklı model kombinasyonu** denenmiştir (2 MF × 4 Defuzz).
 - scikit-learn
 
 ---
-
-## 🧪 Proje Yapısı
-
-```bash
-fuzzy-localization-wsn/
-├── esnek.csv                 # UCI veri seti
-├── fuzzy_model.py            # Tüm bulanık mantık modelleme kodları
-├── README.md                 # Proje dokümantasyonu
-└── requirements.txt          # Gerekli kütüphaneler
